@@ -1,0 +1,17 @@
+D:\GitHub\SerialDataLogger\SerialDataLogger\bin\Debug\SerialDataLogger.exe.config
+D:\GitHub\SerialDataLogger\SerialDataLogger\bin\Debug\SerialDataLogger.exe
+D:\GitHub\SerialDataLogger\SerialDataLogger\bin\Debug\SerialDataLogger.pdb
+D:\GitHub\SerialDataLogger\SerialDataLogger\bin\Debug\OxyPlot.dll
+D:\GitHub\SerialDataLogger\SerialDataLogger\bin\Debug\OxyPlot.WindowsForms.dll
+D:\GitHub\SerialDataLogger\SerialDataLogger\bin\Debug\OxyPlot.pdb
+D:\GitHub\SerialDataLogger\SerialDataLogger\bin\Debug\OxyPlot.xml
+D:\GitHub\SerialDataLogger\SerialDataLogger\bin\Debug\OxyPlot.WindowsForms.pdb
+D:\GitHub\SerialDataLogger\SerialDataLogger\bin\Debug\OxyPlot.WindowsForms.xml
+D:\GitHub\SerialDataLogger\SerialDataLogger\obj\Debug\SerialDataLogger.csprojAssemblyReference.cache
+D:\GitHub\SerialDataLogger\SerialDataLogger\obj\Debug\SerialDataLogger.Properties.Resources.resources
+D:\GitHub\SerialDataLogger\SerialDataLogger\obj\Debug\SerialDataLogger.SerialDataLogger.resources
+D:\GitHub\SerialDataLogger\SerialDataLogger\obj\Debug\SerialDataLogger.csproj.GenerateResource.cache
+D:\GitHub\SerialDataLogger\SerialDataLogger\obj\Debug\SerialDataLogger.csproj.CoreCompileInputs.cache
+D:\GitHub\SerialDataLogger\SerialDataLogger\obj\Debug\SerialDataLogger.csproj.CopyComplete
+D:\GitHub\SerialDataLogger\SerialDataLogger\obj\Debug\SerialDataLogger.exe
+D:\GitHub\SerialDataLogger\SerialDataLogger\obj\Debug\SerialDataLogger.pdb
